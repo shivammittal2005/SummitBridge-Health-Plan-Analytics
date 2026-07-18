@@ -163,8 +163,8 @@ The final recommendations, dashboard and presentation were collaborative team de
 
 **Team Four MECEs — Delhi Technological University**
 
-- Adarsh Ranjan
 - Shivam Mittal
+- Adarsh Ranjan
 - Akansha Sethi
 - Ananya Mangal
 
@@ -189,11 +189,3 @@ The final recommendations, dashboard and presentation were collaborative team de
 - Dashboard design
 - Structured problem solving
 - Executive communication
-
-## Suggested Resume Wording
-
-> **SummitBridge Health Plan Analytics | McKinsey TechQuest**
-
-- Analyzed five integrated datasets covering 800 members, 5,961 claim lines and $11.3M in allowed spend to identify inpatient concentration, high-cost cohorts and retention signals.
-- Defined KPI and scenario frameworks across PMPM, ED utilization, churn and Specialty Rx, estimating a $201K–$300K gross opportunity before program costs and clinical validation.
-- Co-developed an interactive executive dashboard and phased intervention roadmap covering high-cost care management, ED navigation, pharmacy optimization and member retention.
