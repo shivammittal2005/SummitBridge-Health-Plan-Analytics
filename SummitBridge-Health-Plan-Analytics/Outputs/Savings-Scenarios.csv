@@ -1,0 +1,11 @@
+Scenario,Assumption,Gross Opportunity USD,Status,Caveat
+Strict ED Diversion,20% of 613 strictly avoidable ED claim lines shifted at approximately $992 per eligible shift,121630,Modeled,Clinical triage and program cost excluded
+Expanded ED Diversion,20% of 914 avoidable or potentially avoidable ED candidates shifted,181354,Modeled,Candidate pool is not automatic eligibility
+Specialty Rx 5 Percent,"5% optimization of $791,233",39562,Modeled,Clinical appropriateness required
+Specialty Rx 10 Percent,"10% optimization of $791,233",79123,Modeled,Planning case
+Specialty Rx 15 Percent,"15% optimization of $791,233",118685,Modeled,Upside case
+Direct Base,Strict ED diversion plus 10% Rx optimization,200753,Modeled,Gross before program cost
+Expanded ED Plus 10 Percent Rx,Expanded ED diversion plus 10% Rx optimization,260477,Modeled,Gross before program cost
+Direct Combined Upside,Expanded ED diversion plus 15% Rx optimization,300039,Modeled,Gross before program cost
+Broader Five-Lever Scenario,"High-cost pod, expanded ED, 15% Rx and behavioral-health opportunity",652870,Modeled,Retention unmonetized
+Integrated Operating Upside,Stronger integrated assumptions,1200000,Illustrative,Not the validated base case

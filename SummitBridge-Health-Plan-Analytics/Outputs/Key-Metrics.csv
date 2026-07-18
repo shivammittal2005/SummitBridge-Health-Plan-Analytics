@@ -1,0 +1,16 @@
+Metric,Value,Display Value,Evidence Type,Interpretation
+Members,800,800,Observed,2024 analytical sample
+Member Months,8462,"8,462",Observed,Exposure denominator
+Claim Lines,5961,"5,961",Observed,Claims fact-table rows
+Total Allowed Spend,11321000,$11.321M,Observed,Primary medical-cost metric
+Blended PMPM,1338,"$1,338",Calculated,Allowed spend per member month
+Inpatient Allowed Spend,8632000,$8.632M,Observed,76.2% of allowed spend
+Top 5 Percent Members,40,40,Calculated,High-cost cohort
+Top 5 Percent Allowed Spend,2317000,$2.317M,Calculated,20.5% of allowed spend
+ED Claim Lines,1209,"1,209",Observed,Case-defined ED utilization count
+ED Candidate Pool,914,914,Calculated,Avoidable plus potentially avoidable
+Average ED Cost,1126.78,"$1,126.78",Calculated,Average allowed per ED claim line
+Average Urgent-Care Cost,134.7,$134.70,Calculated,Average allowed per urgent-care claim line
+Specialty Rx Spend,791233,"$791,233",Observed,Allowed spend in Specialty Rx
+Disenrolled Members,93,93,Observed,11.6% churn
+OON Leakage,138700,$138.7K,Calculated,1.23% of allowed spend

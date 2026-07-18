@@ -1,0 +1,13 @@
+KPI,Formula or Definition,Primary Owner,Type
+PMPM,Total allowed spend / total member months,Finance and Medical Management,Outcome
+"ED Claim Lines per 1,000","ED claim lines / member months × 1,000",Population Health,Outcome
+High-Cost Concentration,High-cost cohort allowed spend / total allowed spend,Care Management,Outcome
+Inpatient Allowed Spend,Sum of inpatient allowed amount,Medical Management,Outcome
+Specialty Rx Allowed Spend,Sum of Specialty Rx allowed amount,Pharmacy,Outcome
+OON Leakage Rate,OON allowed spend / total allowed spend,Network,Outcome
+Member Churn Rate,Disenrolled members / enrolled members,Member Experience,Outcome
+Urgent-Care Conversion,Eligible ED candidates routed to urgent care / eligible candidates,Population Health,Adoption
+PCP 7-Day Follow-Up,Eligible members with PCP follow-up in seven days / eligible members,Care Management,Quality
+30-Day Readmission Rate,Readmissions within 30 days / eligible discharges,Medical Management,Guardrail
+Medication Adherence,Members meeting adherence threshold / eligible members,Pharmacy,Guardrail
+Member Complaints,Complaints associated with intervention population,Member Experience,Guardrail
